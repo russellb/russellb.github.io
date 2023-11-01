@@ -1,0 +1,18 @@
+---
+title: "Asterisk 1.4.20 Released"
+date: "2008-05-20"
+categories: 
+  - "asterisk"
+---
+
+The Asterisk.org development team has released Asterisk version 1.4.20.
+
+This release contains a large number of bug fixes over the previous release. For a full list of changes, see the ChangeLog included in the release.
+
+[http://svn.digium.com/view/asterisk/tags/1.4.20/ChangeLog?view=markup](http://svn.digium.com/view/asterisk/tags/1.4.20/ChangeLog?view=markup)
+
+Asterisk 1.4.20 is available for immediate download from the Digium downloads site.
+
+[http://downloads.digium.com/pub/telephony/asterisk/](http://downloads.digium.com/pub/telephony/asterisk/)
+
+Thank you for your continued support of Asterisk!
