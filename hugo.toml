@@ -5,8 +5,8 @@ theme = 'ananke'
 SectionPagesMenu = "main"
 
 [params]
-  text_color = ""
   author = "Russell Bryant"
+  text_color = ""
   favicon = ""
   site_logo = ""
   description = ""
